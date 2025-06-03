@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Данила 👋
 
-<!--
-**Fullesh/Fullesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — начинающий Python backend-разработчик, специализирующийся на создании API и автоматизации.  
+🧠 Учусь, развиваюсь и применяю Python, Django, PostgreSQL, Docker, Celery и другие технологии.
 
-Here are some ideas to get you started:
+## 🚀 Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔄 [email-service](https://github.com/Fullesh/email-service) — Web-приложение для рассылок (Django, Celery, Redis)
+- ✅ [MyDearHabbits](https://github.com/Fullesh/MyDearHabbits) — API для отслеживания привычек и наград
+- 🛒 [PairFinder](https://github.com/Fullesh/PairFinder) — парсер для подбора парных товаров по артикулу
+
+## 🛠 Навыки и стек
+`Python` `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Docker` `Git`
+
+## 📫 Контакты
+- Telegram: [@tottsamuy](https://t.me/tottsamuy)
+- Email: danilabelov.adm@yandex.ru
