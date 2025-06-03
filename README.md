@@ -7,7 +7,6 @@
 
 - 🔄 [email-service](https://github.com/Fullesh/email-service) — Web-приложение для рассылок (Django, Celery, Redis)
 - ✅ [MyDearHabbits](https://github.com/Fullesh/MyDearHabbits) — API для отслеживания привычек и наград
-- 🛒 [PairFinder](https://github.com/Fullesh/PairFinder) — парсер для подбора парных товаров по артикулу
 
 ## 🛠 Навыки и стек
 `Python` `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Docker` `Git`
