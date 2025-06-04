@@ -5,7 +5,7 @@
 
 ## 🚀 Мои проекты
 
-- 🔄 [ЯРасслыки](https://github.com/Fullesh/email-service) — Web-приложение для рассылок (Django, Celery, Redis)
+- 🔄 [ЯРасслыки](https://github.com/Fullesh/EmailSender) — Web-приложение для рассылок (Django, Celery, Redis)
 - ✅ [MyDearHabbits](https://github.com/Fullesh/MyDearHabbits) — API для отслеживания привычек и наград
 
 ## 🛠 Навыки и стек
