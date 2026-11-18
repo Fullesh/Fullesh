@@ -1,16 +1,28 @@
 # Привет, я Данила 👋
 
-Я — начинающий Python backend-разработчик, специализирующийся на создании API и автоматизации.  
-🧠 Учусь, развиваюсь и применяю Python, Django, PostgreSQL, Docker, Celery и другие технологии.
+### Backend Engineer | Go (Golang)
 
-## 🚀 Мои проекты
+Разрабатываю отказоустойчивые распределенные сервисы и масштабируемые бэкенд-системы. Фокусируюсь на параллелизме (concurrency), низких задержках (low-latency), чистой архитектуре и оптимизации ресурсов.
 
-- 🔄 [ЯРасслыки](https://github.com/Fullesh/EmailSender) — Web-приложение для рассылок (Django, Celery, Redis)
-- ✅ [MyDearHabbits](https://github.com/Fullesh/MyDearHabbits) — API для отслеживания привычек и наград (DRF, Celery)
+---
 
-## 🛠 Навыки и стек
-`Python` `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Docker` `Git`
+### 🛠 Стек и экспертиза
 
-## 📫 Контакты
+- **Языки:** Go (Golang), Python, SQL
+- **Бэкенд и архитектура:** Микросервисы, gRPC / Protobuf, REST API, Event-Driven Architecture, Goroutines / Channels, pprof
+- **Хранилища и брокеры:** PostgreSQL, ClickHouse, Redis, Kafka
+- **Инфраструктура и мониторинг:** Docker, CI/CD, Prometheus, Grafana, OpenTelemetry
+
+---
+
+### 🚀 Проекты
+
+- 🔄 **[VM-LoadBalancer](https://github.com/Fullesh/VM-LoadBalancer)** — Сервис автоматической балансировки нагрузки CPU/RAM гипервизоров KVM/libvirt на основе метрик из VictoriaMetric.
+- ✅ **[Tracker](https://github.com/Fullesh/Tracker)** — Комплексная платформа управления офисной инфраструктурой и ресурсами. Real-time синхронизация через SSE (Server-Sent Events), интерактивные SVG-планы, сетевой мониторинг доступности хостов (пингер), OCR-распознавание накладных и планировщик задач.
+
+---
+
+### 📫 Контакты
+
 - Telegram: [@tottsamuy](https://t.me/tottsamuy)
 - Email: danilabelov.adm@yandex.ru
